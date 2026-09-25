@@ -1,0 +1,4764 @@
+torch.Size([16, 600, 500])
+Global Step 3676: Train Step 1: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3677: Train Step 2: Train Loss = 0.9545
+torch.Size([16, 600, 500])
+Global Step 3678: Train Step 3: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3679: Train Step 4: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 3680: Train Step 5: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3681: Train Step 6: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3682: Train Step 7: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3683: Train Step 8: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3684: Train Step 9: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3685: Train Step 10: Train Loss = 0.9588
+torch.Size([16, 600, 500])
+Global Step 3686: Train Step 11: Train Loss = 0.9554
+torch.Size([16, 600, 500])
+Global Step 3687: Train Step 12: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3688: Train Step 13: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3689: Train Step 14: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3690: Train Step 15: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3691: Train Step 16: Train Loss = 0.9541
+torch.Size([16, 600, 500])
+Global Step 3692: Train Step 17: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3693: Train Step 18: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3694: Train Step 19: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3695: Train Step 20: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3696: Train Step 21: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3697: Train Step 22: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3698: Train Step 23: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 3699: Train Step 24: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3700: Train Step 25: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3701: Train Step 26: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3702: Train Step 27: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3703: Train Step 28: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3704: Train Step 29: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3705: Train Step 30: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3706: Train Step 31: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3707: Train Step 32: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3708: Train Step 33: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3709: Train Step 34: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3710: Train Step 35: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3711: Train Step 36: Train Loss = 0.9543
+torch.Size([16, 600, 500])
+Global Step 3712: Train Step 37: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3713: Train Step 38: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3714: Train Step 39: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3715: Train Step 40: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3716: Train Step 41: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3717: Train Step 42: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3718: Train Step 43: Train Loss = 0.9542
+torch.Size([16, 600, 500])
+Global Step 3719: Train Step 44: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3720: Train Step 45: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3721: Train Step 46: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 3722: Train Step 47: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 3723: Train Step 48: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3724: Train Step 49: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3725: Train Step 50: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3726: Train Step 51: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3727: Train Step 52: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3728: Train Step 53: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3729: Train Step 54: Train Loss = 0.9543
+torch.Size([16, 600, 500])
+Global Step 3730: Train Step 55: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3731: Train Step 56: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3732: Train Step 57: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3733: Train Step 58: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3734: Train Step 59: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3735: Train Step 60: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3736: Train Step 61: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3737: Train Step 62: Train Loss = 0.9542
+torch.Size([16, 600, 500])
+Global Step 3738: Train Step 63: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3739: Train Step 64: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3740: Train Step 65: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3741: Train Step 66: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3742: Train Step 67: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3743: Train Step 68: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3744: Train Step 69: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3745: Train Step 70: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3746: Train Step 71: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3747: Train Step 72: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3748: Train Step 73: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3749: Train Step 74: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3750: Train Step 75: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3751: Train Step 76: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3752: Train Step 77: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3753: Train Step 78: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3754: Train Step 79: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3755: Train Step 80: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3756: Train Step 81: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3757: Train Step 82: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3758: Train Step 83: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3759: Train Step 84: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3760: Train Step 85: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3761: Train Step 86: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3762: Train Step 87: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3763: Train Step 88: Train Loss = 0.9547
+torch.Size([16, 600, 500])
+Global Step 3764: Train Step 89: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3765: Train Step 90: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3766: Train Step 91: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3767: Train Step 92: Train Loss = 0.9540
+torch.Size([16, 600, 500])
+Global Step 3768: Train Step 93: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3769: Train Step 94: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3770: Train Step 95: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3771: Train Step 96: Train Loss = 0.9543
+torch.Size([16, 600, 500])
+Global Step 3772: Train Step 97: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3773: Train Step 98: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3774: Train Step 99: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3775: Train Step 100: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3776: Train Step 101: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3777: Train Step 102: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3778: Train Step 103: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3779: Train Step 104: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3780: Train Step 105: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9605
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9594
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9638
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9579
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9579
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9579
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9588
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9585
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9587
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9581
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9584
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9594
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9585
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9575
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9583
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9592
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9620
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9584
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9577
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9587
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9579
+Global Step 3780
+Epoch 37: Train Loss = 0.9535, Train Acc = 1.0000
+Epoch 37: Val Loss = 0.9586, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_36.pt
+Checkpoint saved: best_model/bestmodel_36.pt
+torch.Size([16, 600, 500])
+Global Step 3781: Train Step 1: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3782: Train Step 2: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3783: Train Step 3: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3784: Train Step 4: Train Loss = 0.9543
+torch.Size([16, 600, 500])
+Global Step 3785: Train Step 5: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3786: Train Step 6: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3787: Train Step 7: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3788: Train Step 8: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3789: Train Step 9: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3790: Train Step 10: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3791: Train Step 11: Train Loss = 0.9545
+torch.Size([16, 600, 500])
+Global Step 3792: Train Step 12: Train Loss = 0.9541
+torch.Size([16, 600, 500])
+Global Step 3793: Train Step 13: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3794: Train Step 14: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3795: Train Step 15: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3796: Train Step 16: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3797: Train Step 17: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 3798: Train Step 18: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3799: Train Step 19: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3800: Train Step 20: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3801: Train Step 21: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3802: Train Step 22: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3803: Train Step 23: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3804: Train Step 24: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3805: Train Step 25: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3806: Train Step 26: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3807: Train Step 27: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3808: Train Step 28: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3809: Train Step 29: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3810: Train Step 30: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3811: Train Step 31: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3812: Train Step 32: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3813: Train Step 33: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3814: Train Step 34: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3815: Train Step 35: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3816: Train Step 36: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3817: Train Step 37: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3818: Train Step 38: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3819: Train Step 39: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3820: Train Step 40: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3821: Train Step 41: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3822: Train Step 42: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3823: Train Step 43: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3824: Train Step 44: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3825: Train Step 45: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3826: Train Step 46: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3827: Train Step 47: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3828: Train Step 48: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3829: Train Step 49: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3830: Train Step 50: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3831: Train Step 51: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3832: Train Step 52: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3833: Train Step 53: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3834: Train Step 54: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3835: Train Step 55: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3836: Train Step 56: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3837: Train Step 57: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3838: Train Step 58: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3839: Train Step 59: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3840: Train Step 60: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3841: Train Step 61: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3842: Train Step 62: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3843: Train Step 63: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3844: Train Step 64: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3845: Train Step 65: Train Loss = 0.9536
+torch.Size([16, 600, 500])
+Global Step 3846: Train Step 66: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3847: Train Step 67: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3848: Train Step 68: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3849: Train Step 69: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3850: Train Step 70: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3851: Train Step 71: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3852: Train Step 72: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3853: Train Step 73: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3854: Train Step 74: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3855: Train Step 75: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3856: Train Step 76: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3857: Train Step 77: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3858: Train Step 78: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3859: Train Step 79: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3860: Train Step 80: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3861: Train Step 81: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3862: Train Step 82: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3863: Train Step 83: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3864: Train Step 84: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3865: Train Step 85: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3866: Train Step 86: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3867: Train Step 87: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3868: Train Step 88: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3869: Train Step 89: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3870: Train Step 90: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3871: Train Step 91: Train Loss = 0.9576
+torch.Size([16, 600, 500])
+Global Step 3872: Train Step 92: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3873: Train Step 93: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3874: Train Step 94: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3875: Train Step 95: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3876: Train Step 96: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3877: Train Step 97: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3878: Train Step 98: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3879: Train Step 99: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3880: Train Step 100: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 3881: Train Step 101: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3882: Train Step 102: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3883: Train Step 103: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3884: Train Step 104: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3885: Train Step 105: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9581
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9577
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9582
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9585
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9697
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9590
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9566
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9576
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9569
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9576
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9571
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9574
+Global Step 3885
+Epoch 38: Train Loss = 0.9531, Train Acc = 1.0000
+Epoch 38: Val Loss = 0.9580, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_37.pt
+Checkpoint saved: best_model/bestmodel_37.pt
+torch.Size([16, 600, 500])
+Global Step 3886: Train Step 1: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3887: Train Step 2: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3888: Train Step 3: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3889: Train Step 4: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3890: Train Step 5: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3891: Train Step 6: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3892: Train Step 7: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3893: Train Step 8: Train Loss = 0.9588
+torch.Size([16, 600, 500])
+Global Step 3894: Train Step 9: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3895: Train Step 10: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3896: Train Step 11: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3897: Train Step 12: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3898: Train Step 13: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3899: Train Step 14: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3900: Train Step 15: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 3901: Train Step 16: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3902: Train Step 17: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3903: Train Step 18: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3904: Train Step 19: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3905: Train Step 20: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3906: Train Step 21: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3907: Train Step 22: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3908: Train Step 23: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3909: Train Step 24: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3910: Train Step 25: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3911: Train Step 26: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3912: Train Step 27: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3913: Train Step 28: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3914: Train Step 29: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3915: Train Step 30: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3916: Train Step 31: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3917: Train Step 32: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3918: Train Step 33: Train Loss = 0.9535
+torch.Size([16, 600, 500])
+Global Step 3919: Train Step 34: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3920: Train Step 35: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3921: Train Step 36: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3922: Train Step 37: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3923: Train Step 38: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3924: Train Step 39: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3925: Train Step 40: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3926: Train Step 41: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3927: Train Step 42: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3928: Train Step 43: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3929: Train Step 44: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3930: Train Step 45: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3931: Train Step 46: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3932: Train Step 47: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 3933: Train Step 48: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3934: Train Step 49: Train Loss = 0.9550
+torch.Size([16, 600, 500])
+Global Step 3935: Train Step 50: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3936: Train Step 51: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3937: Train Step 52: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3938: Train Step 53: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3939: Train Step 54: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3940: Train Step 55: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3941: Train Step 56: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3942: Train Step 57: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3943: Train Step 58: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3944: Train Step 59: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3945: Train Step 60: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3946: Train Step 61: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3947: Train Step 62: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3948: Train Step 63: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 3949: Train Step 64: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3950: Train Step 65: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3951: Train Step 66: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3952: Train Step 67: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 3953: Train Step 68: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3954: Train Step 69: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3955: Train Step 70: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3956: Train Step 71: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3957: Train Step 72: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3958: Train Step 73: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3959: Train Step 74: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3960: Train Step 75: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3961: Train Step 76: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3962: Train Step 77: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3963: Train Step 78: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3964: Train Step 79: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3965: Train Step 80: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 3966: Train Step 81: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3967: Train Step 82: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3968: Train Step 83: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3969: Train Step 84: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3970: Train Step 85: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3971: Train Step 86: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3972: Train Step 87: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 3973: Train Step 88: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3974: Train Step 89: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3975: Train Step 90: Train Loss = 0.9530
+torch.Size([16, 600, 500])
+Global Step 3976: Train Step 91: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 3977: Train Step 92: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3978: Train Step 93: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3979: Train Step 94: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3980: Train Step 95: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3981: Train Step 96: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 3982: Train Step 97: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 3983: Train Step 98: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3984: Train Step 99: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3985: Train Step 100: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3986: Train Step 101: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 3987: Train Step 102: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3988: Train Step 103: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 3989: Train Step 104: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 3990: Train Step 105: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9566
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9569
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9562
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9617
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9601
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9577
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9583
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9563
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9584
+Global Step 3990
+Epoch 39: Train Loss = 0.9527, Train Acc = 1.0000
+Epoch 39: Val Loss = 0.9572, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_38.pt
+Checkpoint saved: best_model/bestmodel_38.pt
+torch.Size([16, 600, 500])
+Global Step 3991: Train Step 1: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 3992: Train Step 2: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 3993: Train Step 3: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 3994: Train Step 4: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 3995: Train Step 5: Train Loss = 0.9534
+torch.Size([16, 600, 500])
+Global Step 3996: Train Step 6: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 3997: Train Step 7: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 3998: Train Step 8: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 3999: Train Step 9: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 4000: Train Step 10: Train Loss = 0.9529
+torch.Size([16, 600, 500])
+Global Step 4001: Train Step 11: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4002: Train Step 12: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4003: Train Step 13: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4004: Train Step 14: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4005: Train Step 15: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4006: Train Step 16: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4007: Train Step 17: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4008: Train Step 18: Train Loss = 0.9533
+torch.Size([16, 600, 500])
+Global Step 4009: Train Step 19: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4010: Train Step 20: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4011: Train Step 21: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4012: Train Step 22: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4013: Train Step 23: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4014: Train Step 24: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4015: Train Step 25: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4016: Train Step 26: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4017: Train Step 27: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4018: Train Step 28: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4019: Train Step 29: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4020: Train Step 30: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4021: Train Step 31: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4022: Train Step 32: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4023: Train Step 33: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4024: Train Step 34: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4025: Train Step 35: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4026: Train Step 36: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4027: Train Step 37: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4028: Train Step 38: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4029: Train Step 39: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4030: Train Step 40: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4031: Train Step 41: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4032: Train Step 42: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4033: Train Step 43: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4034: Train Step 44: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4035: Train Step 45: Train Loss = 0.9544
+torch.Size([16, 600, 500])
+Global Step 4036: Train Step 46: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4037: Train Step 47: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4038: Train Step 48: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4039: Train Step 49: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4040: Train Step 50: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4041: Train Step 51: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4042: Train Step 52: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4043: Train Step 53: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 4044: Train Step 54: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 4045: Train Step 55: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4046: Train Step 56: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 4047: Train Step 57: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4048: Train Step 58: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4049: Train Step 59: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4050: Train Step 60: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4051: Train Step 61: Train Loss = 0.9578
+torch.Size([16, 600, 500])
+Global Step 4052: Train Step 62: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4053: Train Step 63: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 4054: Train Step 64: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4055: Train Step 65: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4056: Train Step 66: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4057: Train Step 67: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4058: Train Step 68: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4059: Train Step 69: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4060: Train Step 70: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4061: Train Step 71: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 4062: Train Step 72: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4063: Train Step 73: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4064: Train Step 74: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 4065: Train Step 75: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4066: Train Step 76: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4067: Train Step 77: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4068: Train Step 78: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4069: Train Step 79: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4070: Train Step 80: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4071: Train Step 81: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4072: Train Step 82: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4073: Train Step 83: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4074: Train Step 84: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4075: Train Step 85: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4076: Train Step 86: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4077: Train Step 87: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4078: Train Step 88: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 4079: Train Step 89: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4080: Train Step 90: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4081: Train Step 91: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4082: Train Step 92: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 4083: Train Step 93: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4084: Train Step 94: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4085: Train Step 95: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4086: Train Step 96: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4087: Train Step 97: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4088: Train Step 98: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4089: Train Step 99: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4090: Train Step 100: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4091: Train Step 101: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4092: Train Step 102: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4093: Train Step 103: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4094: Train Step 104: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4095: Train Step 105: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9559
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9559
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9560
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9566
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9560
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9585
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9613
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9579
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9569
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9566
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9567
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9574
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9599
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9558
+Global Step 4095
+Epoch 40: Train Loss = 0.9523, Train Acc = 1.0000
+Epoch 40: Val Loss = 0.9569, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_39.pt
+Checkpoint saved: best_model/bestmodel_39.pt
+torch.Size([16, 600, 500])
+Global Step 4096: Train Step 1: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4097: Train Step 2: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4098: Train Step 3: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4099: Train Step 4: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4100: Train Step 5: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4101: Train Step 6: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4102: Train Step 7: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4103: Train Step 8: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4104: Train Step 9: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4105: Train Step 10: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 4106: Train Step 11: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4107: Train Step 12: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4108: Train Step 13: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4109: Train Step 14: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4110: Train Step 15: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4111: Train Step 16: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 4112: Train Step 17: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4113: Train Step 18: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4114: Train Step 19: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4115: Train Step 20: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4116: Train Step 21: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4117: Train Step 22: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4118: Train Step 23: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4119: Train Step 24: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4120: Train Step 25: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4121: Train Step 26: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4122: Train Step 27: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4123: Train Step 28: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4124: Train Step 29: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4125: Train Step 30: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4126: Train Step 31: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4127: Train Step 32: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4128: Train Step 33: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4129: Train Step 34: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4130: Train Step 35: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4131: Train Step 36: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4132: Train Step 37: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4133: Train Step 38: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4134: Train Step 39: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4135: Train Step 40: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4136: Train Step 41: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4137: Train Step 42: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4138: Train Step 43: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4139: Train Step 44: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4140: Train Step 45: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4141: Train Step 46: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4142: Train Step 47: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4143: Train Step 48: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4144: Train Step 49: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4145: Train Step 50: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4146: Train Step 51: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4147: Train Step 52: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4148: Train Step 53: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 4149: Train Step 54: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4150: Train Step 55: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4151: Train Step 56: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4152: Train Step 57: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4153: Train Step 58: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4154: Train Step 59: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4155: Train Step 60: Train Loss = 0.9573
+torch.Size([16, 600, 500])
+Global Step 4156: Train Step 61: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4157: Train Step 62: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4158: Train Step 63: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4159: Train Step 64: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4160: Train Step 65: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4161: Train Step 66: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4162: Train Step 67: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4163: Train Step 68: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4164: Train Step 69: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4165: Train Step 70: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4166: Train Step 71: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4167: Train Step 72: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4168: Train Step 73: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4169: Train Step 74: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4170: Train Step 75: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4171: Train Step 76: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4172: Train Step 77: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4173: Train Step 78: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4174: Train Step 79: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4175: Train Step 80: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4176: Train Step 81: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4177: Train Step 82: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4178: Train Step 83: Train Loss = 0.9531
+torch.Size([16, 600, 500])
+Global Step 4179: Train Step 84: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4180: Train Step 85: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4181: Train Step 86: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4182: Train Step 87: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4183: Train Step 88: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4184: Train Step 89: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4185: Train Step 90: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4186: Train Step 91: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4187: Train Step 92: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4188: Train Step 93: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4189: Train Step 94: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 4190: Train Step 95: Train Loss = 0.9539
+torch.Size([16, 600, 500])
+Global Step 4191: Train Step 96: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4192: Train Step 97: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4193: Train Step 98: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4194: Train Step 99: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4195: Train Step 100: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4196: Train Step 101: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4197: Train Step 102: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4198: Train Step 103: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4199: Train Step 104: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4200: Train Step 105: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9560
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9556
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9567
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9570
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9562
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9560
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9596
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9569
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9567
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9573
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9606
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9561
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9562
+Global Step 4200
+Epoch 41: Train Loss = 0.9520, Train Acc = 1.0000
+Epoch 41: Val Loss = 0.9564, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_40.pt
+Checkpoint saved: best_model/bestmodel_40.pt
+torch.Size([16, 600, 500])
+Global Step 4201: Train Step 1: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4202: Train Step 2: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4203: Train Step 3: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4204: Train Step 4: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4205: Train Step 5: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4206: Train Step 6: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4207: Train Step 7: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4208: Train Step 8: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4209: Train Step 9: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4210: Train Step 10: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4211: Train Step 11: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4212: Train Step 12: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4213: Train Step 13: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4214: Train Step 14: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4215: Train Step 15: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4216: Train Step 16: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4217: Train Step 17: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4218: Train Step 18: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4219: Train Step 19: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4220: Train Step 20: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4221: Train Step 21: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4222: Train Step 22: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4223: Train Step 23: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4224: Train Step 24: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4225: Train Step 25: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4226: Train Step 26: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4227: Train Step 27: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4228: Train Step 28: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4229: Train Step 29: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4230: Train Step 30: Train Loss = 0.9526
+torch.Size([16, 600, 500])
+Global Step 4231: Train Step 31: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4232: Train Step 32: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4233: Train Step 33: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4234: Train Step 34: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4235: Train Step 35: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4236: Train Step 36: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4237: Train Step 37: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4238: Train Step 38: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4239: Train Step 39: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4240: Train Step 40: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4241: Train Step 41: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4242: Train Step 42: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4243: Train Step 43: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4244: Train Step 44: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4245: Train Step 45: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4246: Train Step 46: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4247: Train Step 47: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4248: Train Step 48: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4249: Train Step 49: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4250: Train Step 50: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4251: Train Step 51: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4252: Train Step 52: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4253: Train Step 53: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4254: Train Step 54: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4255: Train Step 55: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4256: Train Step 56: Train Loss = 0.9570
+torch.Size([16, 600, 500])
+Global Step 4257: Train Step 57: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4258: Train Step 58: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4259: Train Step 59: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4260: Train Step 60: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4261: Train Step 61: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4262: Train Step 62: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4263: Train Step 63: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4264: Train Step 64: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4265: Train Step 65: Train Loss = 0.9522
+torch.Size([16, 600, 500])
+Global Step 4266: Train Step 66: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Global Step 4267: Train Step 67: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4268: Train Step 68: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4269: Train Step 69: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4270: Train Step 70: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4271: Train Step 71: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4272: Train Step 72: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4273: Train Step 73: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4274: Train Step 74: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4275: Train Step 75: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4276: Train Step 76: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4277: Train Step 77: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4278: Train Step 78: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4279: Train Step 79: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4280: Train Step 80: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4281: Train Step 81: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4282: Train Step 82: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4283: Train Step 83: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4284: Train Step 84: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4285: Train Step 85: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4286: Train Step 86: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4287: Train Step 87: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4288: Train Step 88: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4289: Train Step 89: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4290: Train Step 90: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4291: Train Step 91: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4292: Train Step 92: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4293: Train Step 93: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4294: Train Step 94: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4295: Train Step 95: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4296: Train Step 96: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4297: Train Step 97: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4298: Train Step 98: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4299: Train Step 99: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4300: Train Step 100: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4301: Train Step 101: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4302: Train Step 102: Train Loss = 0.9521
+torch.Size([16, 600, 500])
+Global Step 4303: Train Step 103: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4304: Train Step 104: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4305: Train Step 105: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9554
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9609
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9554
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9554
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9614
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9553
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9559
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9553
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9553
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9588
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9551
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9556
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9553
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9561
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9549
+Global Step 4305
+Epoch 42: Train Loss = 0.9516, Train Acc = 1.0000
+Epoch 42: Val Loss = 0.9561, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_41.pt
+Checkpoint saved: best_model/bestmodel_41.pt
+torch.Size([16, 600, 500])
+Global Step 4306: Train Step 1: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4307: Train Step 2: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4308: Train Step 3: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4309: Train Step 4: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4310: Train Step 5: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4311: Train Step 6: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4312: Train Step 7: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4313: Train Step 8: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4314: Train Step 9: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4315: Train Step 10: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4316: Train Step 11: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4317: Train Step 12: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4318: Train Step 13: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4319: Train Step 14: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4320: Train Step 15: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4321: Train Step 16: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4322: Train Step 17: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4323: Train Step 18: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4324: Train Step 19: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4325: Train Step 20: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4326: Train Step 21: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4327: Train Step 22: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4328: Train Step 23: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4329: Train Step 24: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4330: Train Step 25: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4331: Train Step 26: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4332: Train Step 27: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4333: Train Step 28: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4334: Train Step 29: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4335: Train Step 30: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4336: Train Step 31: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4337: Train Step 32: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4338: Train Step 33: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4339: Train Step 34: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4340: Train Step 35: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4341: Train Step 36: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4342: Train Step 37: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4343: Train Step 38: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4344: Train Step 39: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4345: Train Step 40: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4346: Train Step 41: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4347: Train Step 42: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4348: Train Step 43: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4349: Train Step 44: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4350: Train Step 45: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4351: Train Step 46: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4352: Train Step 47: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4353: Train Step 48: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4354: Train Step 49: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4355: Train Step 50: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4356: Train Step 51: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4357: Train Step 52: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4358: Train Step 53: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4359: Train Step 54: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4360: Train Step 55: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4361: Train Step 56: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4362: Train Step 57: Train Loss = 0.9525
+torch.Size([16, 600, 500])
+Global Step 4363: Train Step 58: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4364: Train Step 59: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4365: Train Step 60: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4366: Train Step 61: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4367: Train Step 62: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4368: Train Step 63: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4369: Train Step 64: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4370: Train Step 65: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4371: Train Step 66: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4372: Train Step 67: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4373: Train Step 68: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4374: Train Step 69: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4375: Train Step 70: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4376: Train Step 71: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4377: Train Step 72: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4378: Train Step 73: Train Loss = 0.9564
+torch.Size([16, 600, 500])
+Global Step 4379: Train Step 74: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4380: Train Step 75: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4381: Train Step 76: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4382: Train Step 77: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4383: Train Step 78: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4384: Train Step 79: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4385: Train Step 80: Train Loss = 0.9524
+torch.Size([16, 600, 500])
+Global Step 4386: Train Step 81: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4387: Train Step 82: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4388: Train Step 83: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4389: Train Step 84: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4390: Train Step 85: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4391: Train Step 86: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4392: Train Step 87: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4393: Train Step 88: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4394: Train Step 89: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4395: Train Step 90: Train Loss = 0.9520
+torch.Size([16, 600, 500])
+Global Step 4396: Train Step 91: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4397: Train Step 92: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4398: Train Step 93: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4399: Train Step 94: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4400: Train Step 95: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4401: Train Step 96: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4402: Train Step 97: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4403: Train Step 98: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4404: Train Step 99: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4405: Train Step 100: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4406: Train Step 101: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4407: Train Step 102: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4408: Train Step 103: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4409: Train Step 104: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4410: Train Step 105: Train Loss = 0.9523
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9549
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9602
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9616
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9554
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9549
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9567
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9554
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9551
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9571
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9560
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9555
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9559
+Global Step 4410
+Epoch 43: Train Loss = 0.9514, Train Acc = 1.0000
+Epoch 43: Val Loss = 0.9560, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_42.pt
+Checkpoint saved: best_model/bestmodel_42.pt
+torch.Size([16, 600, 500])
+Global Step 4411: Train Step 1: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4412: Train Step 2: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4413: Train Step 3: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4414: Train Step 4: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4415: Train Step 5: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4416: Train Step 6: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4417: Train Step 7: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4418: Train Step 8: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4419: Train Step 9: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4420: Train Step 10: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4421: Train Step 11: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4422: Train Step 12: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4423: Train Step 13: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4424: Train Step 14: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4425: Train Step 15: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4426: Train Step 16: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4427: Train Step 17: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4428: Train Step 18: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4429: Train Step 19: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4430: Train Step 20: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4431: Train Step 21: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4432: Train Step 22: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4433: Train Step 23: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4434: Train Step 24: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4435: Train Step 25: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4436: Train Step 26: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4437: Train Step 27: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4438: Train Step 28: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4439: Train Step 29: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4440: Train Step 30: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4441: Train Step 31: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4442: Train Step 32: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4443: Train Step 33: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4444: Train Step 34: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4445: Train Step 35: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4446: Train Step 36: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4447: Train Step 37: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4448: Train Step 38: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4449: Train Step 39: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4450: Train Step 40: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4451: Train Step 41: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4452: Train Step 42: Train Loss = 0.9559
+torch.Size([16, 600, 500])
+Global Step 4453: Train Step 43: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4454: Train Step 44: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4455: Train Step 45: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4456: Train Step 46: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4457: Train Step 47: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4458: Train Step 48: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4459: Train Step 49: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4460: Train Step 50: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4461: Train Step 51: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4462: Train Step 52: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4463: Train Step 53: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4464: Train Step 54: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4465: Train Step 55: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4466: Train Step 56: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4467: Train Step 57: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4468: Train Step 58: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4469: Train Step 59: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4470: Train Step 60: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4471: Train Step 61: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4472: Train Step 62: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4473: Train Step 63: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4474: Train Step 64: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4475: Train Step 65: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4476: Train Step 66: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4477: Train Step 67: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4478: Train Step 68: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4479: Train Step 69: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4480: Train Step 70: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4481: Train Step 71: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4482: Train Step 72: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4483: Train Step 73: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4484: Train Step 74: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4485: Train Step 75: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4486: Train Step 76: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4487: Train Step 77: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4488: Train Step 78: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4489: Train Step 79: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4490: Train Step 80: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4491: Train Step 81: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4492: Train Step 82: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4493: Train Step 83: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4494: Train Step 84: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4495: Train Step 85: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4496: Train Step 86: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4497: Train Step 87: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4498: Train Step 88: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4499: Train Step 89: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4500: Train Step 90: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4501: Train Step 91: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4502: Train Step 92: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4503: Train Step 93: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4504: Train Step 94: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4505: Train Step 95: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4506: Train Step 96: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4507: Train Step 97: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4508: Train Step 98: Train Loss = 0.9527
+torch.Size([16, 600, 500])
+Global Step 4509: Train Step 99: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4510: Train Step 100: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4511: Train Step 101: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4512: Train Step 102: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4513: Train Step 103: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4514: Train Step 104: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4515: Train Step 105: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9590
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9538
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9549
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9597
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9549
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9551
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9539
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9545
+Global Step 4515
+Epoch 44: Train Loss = 0.9511, Train Acc = 1.0000
+Epoch 44: Val Loss = 0.9552, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_43.pt
+Checkpoint saved: best_model/bestmodel_43.pt
+torch.Size([16, 600, 500])
+Global Step 4516: Train Step 1: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4517: Train Step 2: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4518: Train Step 3: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4519: Train Step 4: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4520: Train Step 5: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4521: Train Step 6: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4522: Train Step 7: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4523: Train Step 8: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4524: Train Step 9: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4525: Train Step 10: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4526: Train Step 11: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4527: Train Step 12: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4528: Train Step 13: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4529: Train Step 14: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4530: Train Step 15: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4531: Train Step 16: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4532: Train Step 17: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4533: Train Step 18: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4534: Train Step 19: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4535: Train Step 20: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4536: Train Step 21: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4537: Train Step 22: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4538: Train Step 23: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4539: Train Step 24: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4540: Train Step 25: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4541: Train Step 26: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4542: Train Step 27: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4543: Train Step 28: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4544: Train Step 29: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4545: Train Step 30: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4546: Train Step 31: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4547: Train Step 32: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4548: Train Step 33: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4549: Train Step 34: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4550: Train Step 35: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4551: Train Step 36: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4552: Train Step 37: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4553: Train Step 38: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4554: Train Step 39: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4555: Train Step 40: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4556: Train Step 41: Train Loss = 0.9513
+torch.Size([16, 600, 500])
+Global Step 4557: Train Step 42: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4558: Train Step 43: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4559: Train Step 44: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4560: Train Step 45: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4561: Train Step 46: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4562: Train Step 47: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4563: Train Step 48: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4564: Train Step 49: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4565: Train Step 50: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4566: Train Step 51: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4567: Train Step 52: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4568: Train Step 53: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4569: Train Step 54: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4570: Train Step 55: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4571: Train Step 56: Train Loss = 0.9557
+torch.Size([16, 600, 500])
+Global Step 4572: Train Step 57: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4573: Train Step 58: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4574: Train Step 59: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4575: Train Step 60: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4576: Train Step 61: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4577: Train Step 62: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4578: Train Step 63: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4579: Train Step 64: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4580: Train Step 65: Train Loss = 0.9519
+torch.Size([16, 600, 500])
+Global Step 4581: Train Step 66: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4582: Train Step 67: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4583: Train Step 68: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4584: Train Step 69: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4585: Train Step 70: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4586: Train Step 71: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4587: Train Step 72: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4588: Train Step 73: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4589: Train Step 74: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4590: Train Step 75: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4591: Train Step 76: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4592: Train Step 77: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4593: Train Step 78: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4594: Train Step 79: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4595: Train Step 80: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4596: Train Step 81: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4597: Train Step 82: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4598: Train Step 83: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4599: Train Step 84: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4600: Train Step 85: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4601: Train Step 86: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4602: Train Step 87: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4603: Train Step 88: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4604: Train Step 89: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4605: Train Step 90: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4606: Train Step 91: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4607: Train Step 92: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4608: Train Step 93: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4609: Train Step 94: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4610: Train Step 95: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4611: Train Step 96: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4612: Train Step 97: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4613: Train Step 98: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4614: Train Step 99: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4615: Train Step 100: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4616: Train Step 101: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4617: Train Step 102: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4618: Train Step 103: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4619: Train Step 104: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4620: Train Step 105: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9598
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9588
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9557
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9566
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9546
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9543
+Global Step 4620
+Epoch 45: Train Loss = 0.9509, Train Acc = 1.0000
+Epoch 45: Val Loss = 0.9551, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_44.pt
+Checkpoint saved: best_model/bestmodel_44.pt
+torch.Size([16, 600, 500])
+Global Step 4621: Train Step 1: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4622: Train Step 2: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4623: Train Step 3: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4624: Train Step 4: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4625: Train Step 5: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4626: Train Step 6: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4627: Train Step 7: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4628: Train Step 8: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4629: Train Step 9: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4630: Train Step 10: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4631: Train Step 11: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4632: Train Step 12: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4633: Train Step 13: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4634: Train Step 14: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4635: Train Step 15: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4636: Train Step 16: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4637: Train Step 17: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4638: Train Step 18: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4639: Train Step 19: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4640: Train Step 20: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4641: Train Step 21: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4642: Train Step 22: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4643: Train Step 23: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4644: Train Step 24: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4645: Train Step 25: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4646: Train Step 26: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4647: Train Step 27: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4648: Train Step 28: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4649: Train Step 29: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4650: Train Step 30: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4651: Train Step 31: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4652: Train Step 32: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4653: Train Step 33: Train Loss = 0.9549
+torch.Size([16, 600, 500])
+Global Step 4654: Train Step 34: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4655: Train Step 35: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4656: Train Step 36: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4657: Train Step 37: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4658: Train Step 38: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4659: Train Step 39: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4660: Train Step 40: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4661: Train Step 41: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4662: Train Step 42: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4663: Train Step 43: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4664: Train Step 44: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4665: Train Step 45: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4666: Train Step 46: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4667: Train Step 47: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4668: Train Step 48: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4669: Train Step 49: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4670: Train Step 50: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4671: Train Step 51: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4672: Train Step 52: Train Loss = 0.9515
+torch.Size([16, 600, 500])
+Global Step 4673: Train Step 53: Train Loss = 0.9517
+torch.Size([16, 600, 500])
+Global Step 4674: Train Step 54: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4675: Train Step 55: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4676: Train Step 56: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4677: Train Step 57: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4678: Train Step 58: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4679: Train Step 59: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4680: Train Step 60: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4681: Train Step 61: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4682: Train Step 62: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4683: Train Step 63: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4684: Train Step 64: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4685: Train Step 65: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4686: Train Step 66: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4687: Train Step 67: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4688: Train Step 68: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4689: Train Step 69: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4690: Train Step 70: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4691: Train Step 71: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4692: Train Step 72: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4693: Train Step 73: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4694: Train Step 74: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4695: Train Step 75: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4696: Train Step 76: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 4697: Train Step 77: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4698: Train Step 78: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4699: Train Step 79: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4700: Train Step 80: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4701: Train Step 81: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4702: Train Step 82: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4703: Train Step 83: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4704: Train Step 84: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4705: Train Step 85: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4706: Train Step 86: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4707: Train Step 87: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4708: Train Step 88: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4709: Train Step 89: Train Loss = 0.9514
+torch.Size([16, 600, 500])
+Global Step 4710: Train Step 90: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4711: Train Step 91: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4712: Train Step 92: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4713: Train Step 93: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4714: Train Step 94: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4715: Train Step 95: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4716: Train Step 96: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4717: Train Step 97: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4718: Train Step 98: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4719: Train Step 99: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4720: Train Step 100: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4721: Train Step 101: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4722: Train Step 102: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4723: Train Step 103: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4724: Train Step 104: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4725: Train Step 105: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9555
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9595
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9562
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9559
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9539
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9577
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9564
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9546
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9551
+Global Step 4725
+Epoch 46: Train Loss = 0.9507, Train Acc = 1.0000
+Epoch 46: Val Loss = 0.9551, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_45.pt
+torch.Size([16, 600, 500])
+Global Step 4726: Train Step 1: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4727: Train Step 2: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4728: Train Step 3: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4729: Train Step 4: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4730: Train Step 5: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4731: Train Step 6: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4732: Train Step 7: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4733: Train Step 8: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4734: Train Step 9: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4735: Train Step 10: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4736: Train Step 11: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4737: Train Step 12: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4738: Train Step 13: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4739: Train Step 14: Train Loss = 0.9549
+torch.Size([16, 600, 500])
+Global Step 4740: Train Step 15: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4741: Train Step 16: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4742: Train Step 17: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4743: Train Step 18: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4744: Train Step 19: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4745: Train Step 20: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4746: Train Step 21: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4747: Train Step 22: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4748: Train Step 23: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4749: Train Step 24: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4750: Train Step 25: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4751: Train Step 26: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4752: Train Step 27: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4753: Train Step 28: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4754: Train Step 29: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4755: Train Step 30: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4756: Train Step 31: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4757: Train Step 32: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4758: Train Step 33: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4759: Train Step 34: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4760: Train Step 35: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4761: Train Step 36: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4762: Train Step 37: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4763: Train Step 38: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4764: Train Step 39: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4765: Train Step 40: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4766: Train Step 41: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4767: Train Step 42: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4768: Train Step 43: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4769: Train Step 44: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4770: Train Step 45: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4771: Train Step 46: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4772: Train Step 47: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4773: Train Step 48: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4774: Train Step 49: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4775: Train Step 50: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4776: Train Step 51: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4777: Train Step 52: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4778: Train Step 53: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4779: Train Step 54: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4780: Train Step 55: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4781: Train Step 56: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4782: Train Step 57: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4783: Train Step 58: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4784: Train Step 59: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4785: Train Step 60: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4786: Train Step 61: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4787: Train Step 62: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4788: Train Step 63: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4789: Train Step 64: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4790: Train Step 65: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4791: Train Step 66: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4792: Train Step 67: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4793: Train Step 68: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4794: Train Step 69: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4795: Train Step 70: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4796: Train Step 71: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4797: Train Step 72: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4798: Train Step 73: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4799: Train Step 74: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4800: Train Step 75: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4801: Train Step 76: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4802: Train Step 77: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4803: Train Step 78: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4804: Train Step 79: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4805: Train Step 80: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4806: Train Step 81: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4807: Train Step 82: Train Loss = 0.9518
+torch.Size([16, 600, 500])
+Global Step 4808: Train Step 83: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4809: Train Step 84: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4810: Train Step 85: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4811: Train Step 86: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4812: Train Step 87: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4813: Train Step 88: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4814: Train Step 89: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4815: Train Step 90: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4816: Train Step 91: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4817: Train Step 92: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4818: Train Step 93: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4819: Train Step 94: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4820: Train Step 95: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4821: Train Step 96: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4822: Train Step 97: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4823: Train Step 98: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4824: Train Step 99: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4825: Train Step 100: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4826: Train Step 101: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4827: Train Step 102: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4828: Train Step 103: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4829: Train Step 104: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4830: Train Step 105: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9540
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9551
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9538
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9540
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9602
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9562
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9540
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9540
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9572
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9538
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9539
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9541
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9537
+Global Step 4830
+Epoch 47: Train Loss = 0.9505, Train Acc = 1.0000
+Epoch 47: Val Loss = 0.9545, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_46.pt
+Checkpoint saved: best_model/bestmodel_46.pt
+torch.Size([16, 600, 500])
+Global Step 4831: Train Step 1: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4832: Train Step 2: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4833: Train Step 3: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4834: Train Step 4: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4835: Train Step 5: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4836: Train Step 6: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4837: Train Step 7: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4838: Train Step 8: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4839: Train Step 9: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4840: Train Step 10: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4841: Train Step 11: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4842: Train Step 12: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4843: Train Step 13: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4844: Train Step 14: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4845: Train Step 15: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4846: Train Step 16: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4847: Train Step 17: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4848: Train Step 18: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4849: Train Step 19: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4850: Train Step 20: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4851: Train Step 21: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4852: Train Step 22: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4853: Train Step 23: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4854: Train Step 24: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4855: Train Step 25: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4856: Train Step 26: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4857: Train Step 27: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4858: Train Step 28: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4859: Train Step 29: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4860: Train Step 30: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4861: Train Step 31: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4862: Train Step 32: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4863: Train Step 33: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4864: Train Step 34: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4865: Train Step 35: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4866: Train Step 36: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4867: Train Step 37: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4868: Train Step 38: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4869: Train Step 39: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4870: Train Step 40: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4871: Train Step 41: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4872: Train Step 42: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4873: Train Step 43: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4874: Train Step 44: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4875: Train Step 45: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4876: Train Step 46: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4877: Train Step 47: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4878: Train Step 48: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4879: Train Step 49: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4880: Train Step 50: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4881: Train Step 51: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4882: Train Step 52: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4883: Train Step 53: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4884: Train Step 54: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4885: Train Step 55: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4886: Train Step 56: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4887: Train Step 57: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4888: Train Step 58: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4889: Train Step 59: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4890: Train Step 60: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4891: Train Step 61: Train Loss = 0.9516
+torch.Size([16, 600, 500])
+Global Step 4892: Train Step 62: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4893: Train Step 63: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4894: Train Step 64: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4895: Train Step 65: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4896: Train Step 66: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4897: Train Step 67: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4898: Train Step 68: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4899: Train Step 69: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4900: Train Step 70: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4901: Train Step 71: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 4902: Train Step 72: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4903: Train Step 73: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4904: Train Step 74: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4905: Train Step 75: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4906: Train Step 76: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4907: Train Step 77: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4908: Train Step 78: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4909: Train Step 79: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4910: Train Step 80: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4911: Train Step 81: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 4912: Train Step 82: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4913: Train Step 83: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4914: Train Step 84: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4915: Train Step 85: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4916: Train Step 86: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4917: Train Step 87: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4918: Train Step 88: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4919: Train Step 89: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4920: Train Step 90: Train Loss = 0.9510
+torch.Size([16, 600, 500])
+Global Step 4921: Train Step 91: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4922: Train Step 92: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4923: Train Step 93: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4924: Train Step 94: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4925: Train Step 95: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4926: Train Step 96: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4927: Train Step 97: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4928: Train Step 98: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4929: Train Step 99: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4930: Train Step 100: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4931: Train Step 101: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4932: Train Step 102: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4933: Train Step 103: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4934: Train Step 104: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4935: Train Step 105: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9577
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9538
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9561
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9556
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9542
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9539
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9539
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9586
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9533
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9533
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9533
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9529
+Global Step 4935
+Epoch 48: Train Loss = 0.9503, Train Acc = 1.0000
+Epoch 48: Val Loss = 0.9541, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_47.pt
+Checkpoint saved: best_model/bestmodel_47.pt
+torch.Size([16, 600, 500])
+Global Step 4936: Train Step 1: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4937: Train Step 2: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4938: Train Step 3: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 4939: Train Step 4: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4940: Train Step 5: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4941: Train Step 6: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4942: Train Step 7: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4943: Train Step 8: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4944: Train Step 9: Train Loss = 0.9508
+torch.Size([16, 600, 500])
+Global Step 4945: Train Step 10: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4946: Train Step 11: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4947: Train Step 12: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4948: Train Step 13: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4949: Train Step 14: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 4950: Train Step 15: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4951: Train Step 16: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4952: Train Step 17: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4953: Train Step 18: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4954: Train Step 19: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4955: Train Step 20: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4956: Train Step 21: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4957: Train Step 22: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4958: Train Step 23: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4959: Train Step 24: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4960: Train Step 25: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4961: Train Step 26: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4962: Train Step 27: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4963: Train Step 28: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4964: Train Step 29: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4965: Train Step 30: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 4966: Train Step 31: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4967: Train Step 32: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4968: Train Step 33: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4969: Train Step 34: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4970: Train Step 35: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4971: Train Step 36: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4972: Train Step 37: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4973: Train Step 38: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4974: Train Step 39: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4975: Train Step 40: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4976: Train Step 41: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4977: Train Step 42: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4978: Train Step 43: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 4979: Train Step 44: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4980: Train Step 45: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4981: Train Step 46: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4982: Train Step 47: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4983: Train Step 48: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4984: Train Step 49: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4985: Train Step 50: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4986: Train Step 51: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4987: Train Step 52: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 4988: Train Step 53: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 4989: Train Step 54: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4990: Train Step 55: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4991: Train Step 56: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 4992: Train Step 57: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 4993: Train Step 58: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4994: Train Step 59: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 4995: Train Step 60: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 4996: Train Step 61: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4997: Train Step 62: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 4998: Train Step 63: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 4999: Train Step 64: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5000: Train Step 65: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5001: Train Step 66: Train Loss = 0.9512
+torch.Size([16, 600, 500])
+Global Step 5002: Train Step 67: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5003: Train Step 68: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5004: Train Step 69: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5005: Train Step 70: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5006: Train Step 71: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5007: Train Step 72: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5008: Train Step 73: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5009: Train Step 74: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5010: Train Step 75: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 5011: Train Step 76: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5012: Train Step 77: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5013: Train Step 78: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5014: Train Step 79: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5015: Train Step 80: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5016: Train Step 81: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5017: Train Step 82: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5018: Train Step 83: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5019: Train Step 84: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5020: Train Step 85: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5021: Train Step 86: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5022: Train Step 87: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5023: Train Step 88: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5024: Train Step 89: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5025: Train Step 90: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5026: Train Step 91: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5027: Train Step 92: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5028: Train Step 93: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 5029: Train Step 94: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 5030: Train Step 95: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5031: Train Step 96: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5032: Train Step 97: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5033: Train Step 98: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5034: Train Step 99: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5035: Train Step 100: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5036: Train Step 101: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5037: Train Step 102: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5038: Train Step 103: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5039: Train Step 104: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5040: Train Step 105: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9546
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9550
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9599
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9534
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9530
+Global Step 5040
+Epoch 49: Train Loss = 0.9502, Train Acc = 1.0000
+Epoch 49: Val Loss = 0.9542, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_48.pt
+torch.Size([16, 600, 500])
+Global Step 5041: Train Step 1: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 5042: Train Step 2: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5043: Train Step 3: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5044: Train Step 4: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5045: Train Step 5: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5046: Train Step 6: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5047: Train Step 7: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5048: Train Step 8: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5049: Train Step 9: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5050: Train Step 10: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5051: Train Step 11: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5052: Train Step 12: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5053: Train Step 13: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5054: Train Step 14: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5055: Train Step 15: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5056: Train Step 16: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5057: Train Step 17: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5058: Train Step 18: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5059: Train Step 19: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5060: Train Step 20: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5061: Train Step 21: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5062: Train Step 22: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5063: Train Step 23: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5064: Train Step 24: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5065: Train Step 25: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5066: Train Step 26: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5067: Train Step 27: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5068: Train Step 28: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5069: Train Step 29: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5070: Train Step 30: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5071: Train Step 31: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5072: Train Step 32: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5073: Train Step 33: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5074: Train Step 34: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5075: Train Step 35: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5076: Train Step 36: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5077: Train Step 37: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5078: Train Step 38: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5079: Train Step 39: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5080: Train Step 40: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5081: Train Step 41: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5082: Train Step 42: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5083: Train Step 43: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5084: Train Step 44: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5085: Train Step 45: Train Loss = 0.9509
+torch.Size([16, 600, 500])
+Global Step 5086: Train Step 46: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5087: Train Step 47: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5088: Train Step 48: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5089: Train Step 49: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5090: Train Step 50: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5091: Train Step 51: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5092: Train Step 52: Train Loss = 0.9511
+torch.Size([16, 600, 500])
+Global Step 5093: Train Step 53: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5094: Train Step 54: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5095: Train Step 55: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5096: Train Step 56: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5097: Train Step 57: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5098: Train Step 58: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5099: Train Step 59: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5100: Train Step 60: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5101: Train Step 61: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5102: Train Step 62: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5103: Train Step 63: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 5104: Train Step 64: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5105: Train Step 65: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5106: Train Step 66: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5107: Train Step 67: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5108: Train Step 68: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5109: Train Step 69: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5110: Train Step 70: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5111: Train Step 71: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5112: Train Step 72: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5113: Train Step 73: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5114: Train Step 74: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5115: Train Step 75: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5116: Train Step 76: Train Loss = 0.9537
+torch.Size([16, 600, 500])
+Global Step 5117: Train Step 77: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5118: Train Step 78: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5119: Train Step 79: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5120: Train Step 80: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5121: Train Step 81: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5122: Train Step 82: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5123: Train Step 83: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5124: Train Step 84: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5125: Train Step 85: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5126: Train Step 86: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5127: Train Step 87: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5128: Train Step 88: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5129: Train Step 89: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5130: Train Step 90: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5131: Train Step 91: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5132: Train Step 92: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5133: Train Step 93: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5134: Train Step 94: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5135: Train Step 95: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5136: Train Step 96: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5137: Train Step 97: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5138: Train Step 98: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5139: Train Step 99: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5140: Train Step 100: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5141: Train Step 101: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5142: Train Step 102: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5143: Train Step 103: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 5144: Train Step 104: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5145: Train Step 105: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9538
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9529
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9533
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9558
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9534
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9634
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9543
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9533
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9525
+Global Step 5145
+Epoch 50: Train Loss = 0.9500, Train Acc = 1.0000
+Epoch 50: Val Loss = 0.9539, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_49.pt
+Checkpoint saved: best_model/bestmodel_49.pt
+torch.Size([16, 600, 500])
+Global Step 5146: Train Step 1: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5147: Train Step 2: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5148: Train Step 3: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5149: Train Step 4: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5150: Train Step 5: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5151: Train Step 6: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5152: Train Step 7: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5153: Train Step 8: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5154: Train Step 9: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5155: Train Step 10: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5156: Train Step 11: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5157: Train Step 12: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5158: Train Step 13: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5159: Train Step 14: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5160: Train Step 15: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5161: Train Step 16: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5162: Train Step 17: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5163: Train Step 18: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5164: Train Step 19: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5165: Train Step 20: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5166: Train Step 21: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5167: Train Step 22: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5168: Train Step 23: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5169: Train Step 24: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5170: Train Step 25: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5171: Train Step 26: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5172: Train Step 27: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5173: Train Step 28: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5174: Train Step 29: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5175: Train Step 30: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5176: Train Step 31: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5177: Train Step 32: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5178: Train Step 33: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5179: Train Step 34: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5180: Train Step 35: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5181: Train Step 36: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5182: Train Step 37: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5183: Train Step 38: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5184: Train Step 39: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5185: Train Step 40: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5186: Train Step 41: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5187: Train Step 42: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5188: Train Step 43: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5189: Train Step 44: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5190: Train Step 45: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5191: Train Step 46: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5192: Train Step 47: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5193: Train Step 48: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5194: Train Step 49: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5195: Train Step 50: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5196: Train Step 51: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5197: Train Step 52: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5198: Train Step 53: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5199: Train Step 54: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5200: Train Step 55: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5201: Train Step 56: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5202: Train Step 57: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5203: Train Step 58: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5204: Train Step 59: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5205: Train Step 60: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5206: Train Step 61: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5207: Train Step 62: Train Loss = 0.9503
+torch.Size([16, 600, 500])
+Global Step 5208: Train Step 63: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5209: Train Step 64: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5210: Train Step 65: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5211: Train Step 66: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5212: Train Step 67: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5213: Train Step 68: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5214: Train Step 69: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5215: Train Step 70: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5216: Train Step 71: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5217: Train Step 72: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5218: Train Step 73: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 5219: Train Step 74: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5220: Train Step 75: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5221: Train Step 76: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5222: Train Step 77: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5223: Train Step 78: Train Loss = 0.9538
+torch.Size([16, 600, 500])
+Global Step 5224: Train Step 79: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5225: Train Step 80: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5226: Train Step 81: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5227: Train Step 82: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5228: Train Step 83: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5229: Train Step 84: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5230: Train Step 85: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5231: Train Step 86: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5232: Train Step 87: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5233: Train Step 88: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5234: Train Step 89: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5235: Train Step 90: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 5236: Train Step 91: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5237: Train Step 92: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5238: Train Step 93: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5239: Train Step 94: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5240: Train Step 95: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5241: Train Step 96: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5242: Train Step 97: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5243: Train Step 98: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5244: Train Step 99: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5245: Train Step 100: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5246: Train Step 101: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5247: Train Step 102: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5248: Train Step 103: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5249: Train Step 104: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5250: Train Step 105: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9531
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9565
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9579
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9530
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9545
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9547
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9533
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9544
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9548
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9526
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9529
+Global Step 5250
+Epoch 51: Train Loss = 0.9498, Train Acc = 1.0000
+Epoch 51: Val Loss = 0.9535, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_50.pt
+Checkpoint saved: best_model/bestmodel_50.pt
+torch.Size([16, 600, 500])
+Global Step 5251: Train Step 1: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5252: Train Step 2: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5253: Train Step 3: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5254: Train Step 4: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5255: Train Step 5: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5256: Train Step 6: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5257: Train Step 7: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5258: Train Step 8: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5259: Train Step 9: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5260: Train Step 10: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5261: Train Step 11: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5262: Train Step 12: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5263: Train Step 13: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5264: Train Step 14: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5265: Train Step 15: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5266: Train Step 16: Train Loss = 0.9505
+torch.Size([16, 600, 500])
+Global Step 5267: Train Step 17: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5268: Train Step 18: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5269: Train Step 19: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5270: Train Step 20: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 5271: Train Step 21: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5272: Train Step 22: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5273: Train Step 23: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5274: Train Step 24: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5275: Train Step 25: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5276: Train Step 26: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5277: Train Step 27: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5278: Train Step 28: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5279: Train Step 29: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5280: Train Step 30: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5281: Train Step 31: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5282: Train Step 32: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5283: Train Step 33: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5284: Train Step 34: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5285: Train Step 35: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5286: Train Step 36: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5287: Train Step 37: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5288: Train Step 38: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5289: Train Step 39: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5290: Train Step 40: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5291: Train Step 41: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5292: Train Step 42: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5293: Train Step 43: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5294: Train Step 44: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5295: Train Step 45: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5296: Train Step 46: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5297: Train Step 47: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5298: Train Step 48: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5299: Train Step 49: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5300: Train Step 50: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5301: Train Step 51: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5302: Train Step 52: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5303: Train Step 53: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5304: Train Step 54: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5305: Train Step 55: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5306: Train Step 56: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5307: Train Step 57: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5308: Train Step 58: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5309: Train Step 59: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5310: Train Step 60: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5311: Train Step 61: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5312: Train Step 62: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5313: Train Step 63: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5314: Train Step 64: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5315: Train Step 65: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5316: Train Step 66: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5317: Train Step 67: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5318: Train Step 68: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5319: Train Step 69: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5320: Train Step 70: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5321: Train Step 71: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5322: Train Step 72: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5323: Train Step 73: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5324: Train Step 74: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5325: Train Step 75: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5326: Train Step 76: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5327: Train Step 77: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5328: Train Step 78: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5329: Train Step 79: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5330: Train Step 80: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5331: Train Step 81: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5332: Train Step 82: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5333: Train Step 83: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5334: Train Step 84: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5335: Train Step 85: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5336: Train Step 86: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5337: Train Step 87: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5338: Train Step 88: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5339: Train Step 89: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5340: Train Step 90: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5341: Train Step 91: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5342: Train Step 92: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5343: Train Step 93: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5344: Train Step 94: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5345: Train Step 95: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5346: Train Step 96: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5347: Train Step 97: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5348: Train Step 98: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5349: Train Step 99: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5350: Train Step 100: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5351: Train Step 101: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5352: Train Step 102: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5353: Train Step 103: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5354: Train Step 104: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5355: Train Step 105: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9522
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9529
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9580
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9556
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9536
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9552
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9563
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9522
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9521
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9521
+Global Step 5355
+Epoch 52: Train Loss = 0.9497, Train Acc = 1.0000
+Epoch 52: Val Loss = 0.9532, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_51.pt
+Checkpoint saved: best_model/bestmodel_51.pt
+torch.Size([16, 600, 500])
+Global Step 5356: Train Step 1: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5357: Train Step 2: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5358: Train Step 3: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5359: Train Step 4: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5360: Train Step 5: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5361: Train Step 6: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5362: Train Step 7: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5363: Train Step 8: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5364: Train Step 9: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5365: Train Step 10: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5366: Train Step 11: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5367: Train Step 12: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5368: Train Step 13: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5369: Train Step 14: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5370: Train Step 15: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5371: Train Step 16: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5372: Train Step 17: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5373: Train Step 18: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5374: Train Step 19: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5375: Train Step 20: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5376: Train Step 21: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5377: Train Step 22: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5378: Train Step 23: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5379: Train Step 24: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5380: Train Step 25: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5381: Train Step 26: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5382: Train Step 27: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5383: Train Step 28: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5384: Train Step 29: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5385: Train Step 30: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5386: Train Step 31: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5387: Train Step 32: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5388: Train Step 33: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5389: Train Step 34: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5390: Train Step 35: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5391: Train Step 36: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5392: Train Step 37: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5393: Train Step 38: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5394: Train Step 39: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5395: Train Step 40: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5396: Train Step 41: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5397: Train Step 42: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5398: Train Step 43: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5399: Train Step 44: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5400: Train Step 45: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5401: Train Step 46: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5402: Train Step 47: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5403: Train Step 48: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5404: Train Step 49: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5405: Train Step 50: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5406: Train Step 51: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5407: Train Step 52: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5408: Train Step 53: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5409: Train Step 54: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5410: Train Step 55: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5411: Train Step 56: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5412: Train Step 57: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5413: Train Step 58: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5414: Train Step 59: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5415: Train Step 60: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5416: Train Step 61: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5417: Train Step 62: Train Loss = 0.9501
+torch.Size([16, 600, 500])
+Global Step 5418: Train Step 63: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5419: Train Step 64: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5420: Train Step 65: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5421: Train Step 66: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5422: Train Step 67: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5423: Train Step 68: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5424: Train Step 69: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5425: Train Step 70: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5426: Train Step 71: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5427: Train Step 72: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5428: Train Step 73: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5429: Train Step 74: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5430: Train Step 75: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5431: Train Step 76: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5432: Train Step 77: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5433: Train Step 78: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5434: Train Step 79: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5435: Train Step 80: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5436: Train Step 81: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5437: Train Step 82: Train Loss = 0.9497
+torch.Size([16, 600, 500])
+Global Step 5438: Train Step 83: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5439: Train Step 84: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5440: Train Step 85: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5441: Train Step 86: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5442: Train Step 87: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5443: Train Step 88: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5444: Train Step 89: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5445: Train Step 90: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5446: Train Step 91: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5447: Train Step 92: Train Loss = 0.9532
+torch.Size([16, 600, 500])
+Global Step 5448: Train Step 93: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5449: Train Step 94: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5450: Train Step 95: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5451: Train Step 96: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5452: Train Step 97: Train Loss = 0.9500
+torch.Size([16, 600, 500])
+Global Step 5453: Train Step 98: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5454: Train Step 99: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5455: Train Step 100: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5456: Train Step 101: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5457: Train Step 102: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5458: Train Step 103: Train Loss = 0.9506
+torch.Size([16, 600, 500])
+Global Step 5459: Train Step 104: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5460: Train Step 105: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Validation Step 1: Validation Loss = 0.9525
+torch.Size([16, 600, 500])
+Validation Step 2: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 3: Validation Loss = 0.9532
+torch.Size([16, 600, 500])
+Validation Step 4: Validation Loss = 0.9535
+torch.Size([16, 600, 500])
+Validation Step 5: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 6: Validation Loss = 0.9559
+torch.Size([16, 600, 500])
+Validation Step 7: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 8: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 9: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 10: Validation Loss = 0.9522
+torch.Size([16, 600, 500])
+Validation Step 11: Validation Loss = 0.9537
+torch.Size([16, 600, 500])
+Validation Step 12: Validation Loss = 0.9527
+torch.Size([16, 600, 500])
+Validation Step 13: Validation Loss = 0.9539
+torch.Size([16, 600, 500])
+Validation Step 14: Validation Loss = 0.9526
+torch.Size([16, 600, 500])
+Validation Step 15: Validation Loss = 0.9540
+torch.Size([16, 600, 500])
+Validation Step 16: Validation Loss = 0.9541
+torch.Size([16, 600, 500])
+Validation Step 17: Validation Loss = 0.9521
+torch.Size([16, 600, 500])
+Validation Step 18: Validation Loss = 0.9578
+torch.Size([16, 600, 500])
+Validation Step 19: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 20: Validation Loss = 0.9524
+torch.Size([16, 600, 500])
+Validation Step 21: Validation Loss = 0.9522
+torch.Size([16, 600, 500])
+Validation Step 22: Validation Loss = 0.9523
+torch.Size([16, 600, 500])
+Validation Step 23: Validation Loss = 0.9523
+torch.Size([16, 600, 500])
+Validation Step 24: Validation Loss = 0.9528
+torch.Size([16, 600, 500])
+Validation Step 25: Validation Loss = 0.9522
+torch.Size([16, 600, 500])
+Validation Step 26: Validation Loss = 0.9523
+torch.Size([4, 600, 500])
+Validation Step 27: Validation Loss = 0.9532
+Global Step 5460
+Epoch 53: Train Loss = 0.9496, Train Acc = 1.0000
+Epoch 53: Val Loss = 0.9531, Val Acc = 0.9999
+0.0001
+Checkpoint saved: train_checkpoints/epoch_52.pt
+Checkpoint saved: best_model/bestmodel_52.pt
+torch.Size([16, 600, 500])
+Global Step 5461: Train Step 1: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5462: Train Step 2: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5463: Train Step 3: Train Loss = 0.9504
+torch.Size([16, 600, 500])
+Global Step 5464: Train Step 4: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5465: Train Step 5: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5466: Train Step 6: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5467: Train Step 7: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5468: Train Step 8: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5469: Train Step 9: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5470: Train Step 10: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5471: Train Step 11: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5472: Train Step 12: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5473: Train Step 13: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5474: Train Step 14: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5475: Train Step 15: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5476: Train Step 16: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5477: Train Step 17: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5478: Train Step 18: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5479: Train Step 19: Train Loss = 0.9528
+torch.Size([16, 600, 500])
+Global Step 5480: Train Step 20: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5481: Train Step 21: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5482: Train Step 22: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5483: Train Step 23: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5484: Train Step 24: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5485: Train Step 25: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5486: Train Step 26: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5487: Train Step 27: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5488: Train Step 28: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5489: Train Step 29: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5490: Train Step 30: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5491: Train Step 31: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5492: Train Step 32: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5493: Train Step 33: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5494: Train Step 34: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5495: Train Step 35: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5496: Train Step 36: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5497: Train Step 37: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5498: Train Step 38: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5499: Train Step 39: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5500: Train Step 40: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5501: Train Step 41: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5502: Train Step 42: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5503: Train Step 43: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5504: Train Step 44: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5505: Train Step 45: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5506: Train Step 46: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5507: Train Step 47: Train Loss = 0.9490
+torch.Size([16, 600, 500])
+Global Step 5508: Train Step 48: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5509: Train Step 49: Train Loss = 0.9507
+torch.Size([16, 600, 500])
+Global Step 5510: Train Step 50: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5511: Train Step 51: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5512: Train Step 52: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5513: Train Step 53: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5514: Train Step 54: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5515: Train Step 55: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5516: Train Step 56: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5517: Train Step 57: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5518: Train Step 58: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5519: Train Step 59: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5520: Train Step 60: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5521: Train Step 61: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5522: Train Step 62: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5523: Train Step 63: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5524: Train Step 64: Train Loss = 0.9490
+torch.Size([16, 600, 500])
+Global Step 5525: Train Step 65: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5526: Train Step 66: Train Loss = 0.9502
+torch.Size([16, 600, 500])
+Global Step 5527: Train Step 67: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5528: Train Step 68: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5529: Train Step 69: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5530: Train Step 70: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5531: Train Step 71: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5532: Train Step 72: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5533: Train Step 73: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5534: Train Step 74: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5535: Train Step 75: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5536: Train Step 76: Train Loss = 0.9498
+torch.Size([16, 600, 500])
+Global Step 5537: Train Step 77: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5538: Train Step 78: Train Loss = 0.9499
+torch.Size([16, 600, 500])
+Global Step 5539: Train Step 79: Train Loss = 0.9494
+torch.Size([16, 600, 500])
+Global Step 5540: Train Step 80: Train Loss = 0.9495
+torch.Size([16, 600, 500])
+Global Step 5541: Train Step 81: Train Loss = 0.9496
+torch.Size([16, 600, 500])
+Global Step 5542: Train Step 82: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5543: Train Step 83: Train Loss = 0.9491
+torch.Size([16, 600, 500])
+Global Step 5544: Train Step 84: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5545: Train Step 85: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5546: Train Step 86: Train Loss = 0.9493
+torch.Size([16, 600, 500])
+Global Step 5547: Train Step 87: Train Loss = 0.9492
+torch.Size([16, 600, 500])
+Global Step 5548: Train Step 88: Train Loss = 0.9497

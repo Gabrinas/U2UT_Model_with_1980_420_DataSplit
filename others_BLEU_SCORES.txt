@@ -1,0 +1,123 @@
+encoder = ConformerEncoder(num_layers=4, d_model=512, d_ff=1024, num_heads=4, kernel_size=31, dropout=0.4, input_dim=512)
+phoneme_decoder = PhonemeDecoder(vocab_size=500, d_model=512, hidden_size=512, num_layers=1, dropout=0.4)
+cross_attention = MultiHeadAttention(d_model=512, num_heads=4, dropout=0.4, use_positional_encoding=False)
+synthesizer = Synthesizer(d_model=512, rnn_dim=512, vocab_size=500   # Yoruba unit vocabulary size)
+optimizer = optim.Adam(model.parameters(), lr=1e-4) without a scheduler
+loss_fn = nn.CrossEntropyLoss(ignore_index=pad_token, label_smoothing=0.1)
+1680/420 datasplit, seq_len = 600
+
+============================================================================================================================
+482: O: Ìrònú, Àgbékalẹ̀ ìkẹ́kọ̀ọ́, Ọ̀nà ìwádìí, Ìwádìí Dátà, Àbójútó, Kíkọ – àkọsílẹ̀ àtilẹ̀wá, Kíkọ – àtúnyẹ̀wò àti àtúnṣe; Olowoshile O.
+kọ́ ìròyù àgbékalẹ̀ ìkẹ́kọ̀ọ́ ọ̀rẹ̀ ìwádìí, ìwádìí dẹ̀ta, àbọ̀jútọ̀ kíkọ́, àkọsílẹ̀ àti lẹ́wà, kíkọ́ àti àwọ̀ àti àtijọ́.
+
+Unnormalised
+O: Ìrònú, Àgbékalẹ̀ ìkẹ́kọ̀ọ́, Ọ̀nà ìwádìí, Ìwádìí Dátà, Àbójútó, Kíkọ – àkọsílẹ̀ àtilẹ̀wá, Kíkọ – àtúnyẹ̀wò àti àtúnṣe; Olowoshile O.
+kọ́ ìròyù àgbékalẹ̀ ìkẹ́kọ̀ọ́ ọ̀rẹ̀ ìwádìí, ìwádìí dẹ̀ta, àbọ̀jútọ̀ kíkọ́, àkọsílẹ̀ àti lẹ́wà, kíkọ́ àti àwọ̀ àti àtijọ́.
+Normalised
+['o ironu agbekale ikekoo ona iwadii iwadii data abojuto kiko  akosile atilewa kiko  atunyewo ati atunse olowoshile o']
+['ko iroyu agbekale ikekoo ore iwadii iwadii deta abojuto kiko akosile ati lewa kiko ati awo ati atijo']
+BLEU score: 12.512236921161914
+WER: 0.5555555555555556
+CER: 0.23478260869565218
+
+ROUGE-L Results:
+LCS Length: 9
+LCS Sequence: agbekale ikekoo iwadii iwadii abojuto kiko akosile kiko ati
+Recall: 0.5
+Precision: 0.5
+F-score: 0.5
+============================================================================================================================
+443: Àwárí yìí bá àwọn ìwádìí mìíràn tí wọ́n ń ròyìn wíwọlé sí ITN káàkiri lẹ́yìn ìsapá ìṣàkóso ibà orílẹ̀-èdè tí ó lágbára [ẹ̀ẹ́dógún, ẹ̀rìndínlógún].
+àwọn àríyìn ìgbà àwọn ìwádìí mi rọ̀ tí wọ́n rọ̀ yìí bí wọ́n le sí i itl àkiri lẹ́yìn ìṣápá àìṣà kòsú ìbá orílẹ̀-èdè tí ó lágbára ẹ̀gbọ̀gbọ̀ àìríndínlọ́gbọ̀.
+
+Unnormalised
+Àwárí yìí bá àwọn ìwádìí mìíràn tí wọ́n ń ròyìn wíwọlé sí ITN káàkiri lẹ́yìn ìsapá ìṣàkóso ibà orílẹ̀-èdè tí ó lágbára [ẹ̀ẹ́dógún, ẹ̀rìndínlógún].
+àwọn àríyìn ìgbà àwọn ìwádìí mi rọ̀ tí wọ́n rọ̀ yìí bí wọ́n le sí i itl àkiri lẹ́yìn ìṣápá àìṣà kòsú ìbá orílẹ̀-èdè tí ó lágbára ẹ̀gbọ̀gbọ̀ àìríndínlọ́gbọ̀.
+Normalised
+['awari yii ba awon iwadii miiran ti won n royin wiwole si itn kaakiri leyin isapa isakoso iba orileede ti o lagbara eedogun erindinlogun']
+['awon ariyin igba awon iwadii mi ro ti won ro yii bi won le si i itl akiri leyin isapa aisa kosu iba orileede ti o lagbara egbogbo airindinlogbo']
+BLEU score: 17.592391261425668
+WER: 0.7083333333333334
+CER: 0.2518518518518518
+============================================================================================================================
+495: Àwọn ohun tó ń fa ìṣòro ọrọ̀ ajé, ìṣèlú, àti àyíká lè mú kí ìtọ́jú ibà ṣe pàtàkì ní ìlú ńlá Nàìjíríà.
+ASR @epoch90: àwọn ọ̀dọ́ fáìsùn-ún ọ̀rọ̀ ajé ìṣèlú àti ayíká-lé-mọ̀ kí í tọ́jú ìgbà ṣe pàtàkì ní ìlú nlá nàìjíríà
+
+Unnormalised
+Àwọn ohun tó ń fa ìṣòro ọrọ̀ ajé, ìṣèlú, àti àyíká lè mú kí ìtọ́jú ibà ṣe pàtàkì ní ìlú ńlá Nàìjíríà
+àwọn ọ̀dọ́ fáìsùn-ún ọ̀rọ̀ ajé ìṣèlú àti ayíká-lé-mọ̀ kí í tọ́jú ìgbà ṣe pàtàkì ní ìlú nlá nàìjíríà
+Normalised
+['awon ohun to n fa isoro oro aje iselu ati ayika le mu ki itoju iba se pataki ni ilu nla naijiria']
+['awon odo faisunun oro aje iselu ati ayikalemo ki i toju igba se pataki ni ilu nla naijiria']
+BLEU score: 33.699818881114126
+WER: 0.5
+CER: 0.17708333333333334
+
+ROUGE-L Results:
+LCS Length: 12
+LCS Sequence: awon oro aje iselu ati ki se pataki ni ilu nla naijiria
+Recall: 0.5454545454545454
+Precision: 0.6666666666666666
+F-score: 0.6
+============================================================================================================================
+460: Keji, jijẹ imoye idena iba nipasẹ ẹkọ jẹ pataki, ṣugbọn ko to nikan lati rii daju pe lilo apapọ.
+ASR @epoch104: ẹ̀gbọ́n èjì díjà èròyè ìdín náà ibà nípasẹ̀ ẹ̀kọ́ jẹ́ pàtàkì ṣípọ̀ọ̀kọ̀ tómi kan láti ìrí dájú pé nílò wá pápọ̀
+
+Unnormalised
+Keji, jijẹ imoye idena iba nipasẹ ẹkọ jẹ pataki, ṣugbọn ko to nikan lati rii daju pe lilo apapọ.
+ẹ̀gbọ́n èjì díjà èròyè ìdín náà ibà nípasẹ̀ ẹ̀kọ́ jẹ́ pàtàkì ṣípọ̀ọ̀kọ̀ tómi kan láti ìrí dájú pé nílò wá pápọ̀
+Normalised
+['keji jije imoye idena iba nipase eko je pataki sugbon ko to nikan lati rii daju pe lilo apapo']
+['egbon eji dija eroye idin naa iba nipase eko je pataki sipooko tomi kan lati iri daju pe nilo wa papo']
+BLEU score: 20.217803037339237
+WER: 0.7368421052631579
+CER: 0.2903225806451613
+
+ROUGE-L Results:
+LCS Length: 8
+LCS Sequence: iba nipase eko je pataki lati daju pe
+Recall: 0.42105263157894735
+Precision: 0.38095238095238093
+F-score: 0.4
+
+==============================================================================================================================
+468: Àtọ́ka ọrọ̀, bó tilẹ̀ jẹ́ aṣojú ìpele fún ipò ọrọ̀-ajé, lè má ṣe gba gbogbo àwọn apá ti ìyàtọ̀ ọrọ̀-ajé. 
+ASR @epoch106: atọkàrọ̀ dọ̀tílà jẹ́ aṣojú ìpele fún ipò ọ̀rọ̀ àjè lè máa ṣe ìgbà gbogbo àwọn àpá tí ìyá tó ọ̀rọ̀ àjè
+
+Unnormalised
+Àtọ́ka ọrọ̀, bó tilẹ̀ jẹ́ aṣojú ìpele fún ipò ọrọ̀-ajé, lè má ṣe gba gbogbo àwọn apá ti ìyàtọ̀ ọrọ̀-ajé.
+atọkàrọ̀ dọ̀tílà jẹ́ aṣojú ìpele fún ipò ọ̀rọ̀ àjè lè máa ṣe ìgbà gbogbo àwọn àpá tí ìyá tó ọ̀rọ̀ àjè̀
+Normalised
+['atoka oro bo tile je asoju ipele fun ipo oroaje le ma se gba gbogbo awon apa ti iyato oroaje']
+['atokaro dotila je asoju ipele fun ipo oro aje le maa se igba gbogbo awon apa ti iya to oro aje']
+BLEU score: 30.603689509300906
+WER: 0.6
+CER: 0.10869565217391304
+
+ROUGE-L Results:
+LCS Length: 11
+LCS Sequence: je asoju ipele fun ipo le se gbogbo awon apa ti
+Recall: 0.55
+Precision: 0.5238095238095238
+F-score: 0.5365853658536585
+=============================================================================================================================
+466: Èyí tẹnu mọ́ pàtàkì ìfarahàn àwọn oníròyìn àti rírí i dájú pé àwọn ìránṣẹ́ náà jẹ́ èyí tí ó wúni lórí, tí ó ṣeé gbẹ́kẹ̀lé, àti tí a gbẹ́kẹ̀lé nípasẹ̀ àwọn olùgbọ́ tí a fojú sí.
+ASR @epoch111: iyẹ̀tẹ̀nu máa pàtàkì fẹràn àwọn yorùbọ̀ yìí àti yorùbí ìdánjú àwọn ìrẹsẹ̀ náà jẹ́ èyí tí ó wò ní lórí, tí ó ṣe ẹ̀gbàtẹ̀yìn àti tí a gbẹkẹ̀rẹ̀ nípasẹ̀ àwọn olùgbọ̀ tí a pọ̀ yóò sí.
+
+Unnormalised
+Èyí tẹnu mọ́ pàtàkì ìfarahàn àwọn oníròyìn àti rírí i dájú pé àwọn ìránṣẹ́ náà jẹ́ èyí tí ó wúni lórí, tí ó ṣeé gbẹ́kẹ̀lé, àti tí a gbẹ́kẹ̀lé nípasẹ̀ àwọn olùgbọ́ tí a fojú sí.
+iyẹ̀tẹ̀nu máa pàtàkì fẹràn àwọn yorùbọ̀ yìí àti yorùbí ìdánjú àwọn ìrẹsẹ̀ náà jẹ́ èyí tí ó wò ní lórí, tí ó ṣe ẹ̀gbàtẹ̀yìn àti tí a gbẹkẹ̀rẹ̀ nípasẹ̀ àwọn olùgbọ̀ tí a pọ̀ yóò sí.̀
+Normalised
+['eyi tenu mo pataki ifarahan awon oniroyin ati riri i daju pe awon iranse naa je eyi ti o wuni lori ti o see gbekele ati ti a gbekele nipase awon olugbo ti a foju si']
+['iyetenu maa pataki feran awon yorubo yii ati yorubi idanju awon irese naa je eyi ti o wo ni lori ti o se egbateyin ati ti a gbekere nipase awon olugbo ti a po yoo si']
+BLEU score: 27.48190153627222
+WER: 0.5
+CER: 0.25
+
+ROUGE-L Results:
+LCS Length: 21
+LCS Sequence: pataki awon ati awon naa je eyi ti o lori ti o ati ti a nipase awon olugbo ti a si
+Recall: 0.5833333333333334
+Precision: 0.5833333333333334
+F-score: 0.5833333333333334
+
