@@ -46,7 +46,7 @@ LCS Sequence: awon iwadii ti won si leyin isapa iba orileede ti o lagbara
 Recall: 0.5
 Precision: 0.41379310344827586
 F-score: 0.4528301886792453
-
+--------------------------------------------------------------------------------------------------------------
 With improvement in BLUE score
 443: Àwárí yìí bá àwọn ìwádìí mìíràn tí wọ́n ń ròyìn wíwọlé sí ITN káàkiri lẹ́yìn ìsapá ìṣàkóso ibà orílẹ̀-èdè tí ó lágbára [ẹ̀ẹ́dógún, ẹ̀rìndínlógún].
 ASR @epoch212: àwọn àríyìn ìgbà àwọn ìwádìí mi rọ̀ tí wọ́n rọ̀ yìí bí wọ́n le sí i itl àkiri lẹ́yìn ìṣápá àìṣà kòsú ìbá orílẹ̀-èdè tí ó lágbára ẹ̀gbọ̀gbọ̀ àìríndínlọ́gbọ̀.
@@ -67,6 +67,10 @@ LCS Sequence: awon iwadii miiran ti won leyin orileede ti o
 Recall: 0.375
 Precision: 0.34615384615384615
 F-score: 0.35999999999999993
+--------------------------------------------------------------------------------------------------------------
+No improvement
+443: Àwárí yìí bá àwọn ìwádìí mìíràn tí wọ́n ń ròyìn wíwọlé sí ITN káàkiri lẹ́yìn ìsapá ìṣàkóso ibà orílẹ̀-èdè tí ó lágbára [ẹ̀ẹ́dógún, ẹ̀rìndínlógún].
+ASR @epoch385: ọ̀wọ̀ ni ìgbà ọwọ̀ ìwájú ni ìrò tí wọ́n rọ̀ ìrọ̀wọ̀ èsí, àìtí ẹ̀gá àkìrì nàì sápá àìsápótìrì máa ń gbé èdè tí ó lábá là bẹ̀rẹ̀ dọ̀gbọ̀
 ============================================================================================================================
 495: Àwọn ohun tó ń fa ìṣòro ọrọ̀ ajé, ìṣèlú, àti àyíká lè mú kí ìtọ́jú ibà ṣe pàtàkì ní ìlú ńlá Nàìjíríà.
 ASR @epoch90: àwọn ọ̀dọ́ fáìsùn-ún ọ̀rọ̀ ajé ìṣèlú àti ayíká-lé-mọ̀ kí í tọ́jú ìgbà ṣe pàtàkì ní ìlú nlá nàìjíríà
@@ -264,6 +268,28 @@ LCS Sequence: ajakale ti o wa ni awon ibi ti omi iba ati ni naijiria
 Recall: 0.5
 Precision: 0.52
 F-score: 0.5098039215686274
+
+--------------------------------------------------------------------------------------------------------------
+Improvement in CER
+497: Láti ìfọ́ sí àjàkálẹ̀ àrùn: Lílóye àìlera tí ó wà ní ìpele méjì ti àwọn ibi tí omi ń gbóná, àìsàn ibà, àti òṣì ní Nàìjíríà.
+ASR @epoch385: láti èfọ́ sí agakayárù lílòyà ilérà tí o̩wá ní ìpè̩lì médì tí àwo̩n ìbí tí omí ìgbò̩nà àìs̩ò̩ ìbà àtí óòs̩è̩ ní ilẹ̀ méjì rẹ̀.
+
+Unnormalised
+Láti ìfọ́ sí àjàkálẹ̀ àrùn: Lílóye àìlera tí ó wà ní ìpele méjì ti àwọn ibi tí omi ń gbóná, àìsàn ibà, àti òṣì ní Nàìjíríà.
+láti èfọ́ sí agakayárù lílòyà ilérà tí o̩wá ní ìpè̩lì médì tí àwo̩n ìbí tí omí ìgbò̩nà àìs̩ò̩ ìbà àtí óòs̩è̩ ní ilẹ̀ méjì rẹ̀.
+Normalised
+['lati ifo si ajakale arun liloye ailera ti o wa ni ipele meji ti awon ibi ti omi n gbona aisan iba ati osi ni naijiria']
+['lati efo si agakayaru liloya ilera ti owa ni ipeli medi ti awon ibi ti omi igbona aiso iba ati oose ni ile meji re']
+BLEU score: 18.18942333362798
+WER: 0.6153846153846154
+CER: 0.2222222222222222
+
+ROUGE-L Results:
+LCS Length: 12
+LCS Sequence: lati si ti ni ti awon ibi ti omi iba ati ni
+Recall: 0.46153846153846156
+Precision: 0.48
+F-score: 0.47058823529411764
 =============================================================================================================================
 478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́. 
 ASR @epoch310: ilé-ilọ̀ yìí àti dígbà àwọn aláfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ìtìyẹ̀yí, yóò jẹ́ kí àwọn ètò wọ̀ yìí ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
@@ -289,8 +315,123 @@ F-score: 0.5416666666666667
 478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́. 
 ASR @epoch320: ilé-ilọ̀ yìí àti dígbà àwọn aláfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ìtìyẹ̀yí, yóò jẹ́ kí àwọn ètò wọ̀ yìí ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
 same as epoch 310 no improvement
-=============================================================================================================================
+--------------------------------------------------------------------------------------------------------------
+No improvement. Also captured words not captured by epoch310
 
+478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́
+ASR @epoch366: ilé-ilọ̀ yìí àti dígbà àwọn aláàfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ti ẹ̀yìn, yóò jẹ́ kí àwọn ìtànwọ̀yì ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
+
+Unnormalised
+Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́.
+ilé-ilọ̀ yìí àti dígbà àwọn aláàfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ti ẹ̀yìn, yóò jẹ́ kí àwọn ìtànwọ̀yì ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
+Normalised
+['liloye ati dida awon alafo imo ati awon idena gidi si lilo itn yoo je ki awon eto wonyi se iyato pipe']
+['ileilo yii ati digba awon alaafo imo ati awon ede naa gidi sile naa ti eyin yoo je ki awon itanwoyi se ya sopopo yii']
+BLEU score: 15.268470848781108
+WER: 0.6818181818181818
+CER: 0.3564356435643564
+
+ROUGE-L Results:
+LCS Length: 11
+LCS Sequence: ati awon imo ati awon gidi yoo je ki awon se
+Recall: 0.5
+Precision: 0.44
+F-score: 0.46808510638297873
+--------------------------------------------------------------------------------------------------------------
+Improvement then epoch366 but lesser than epoch310. Also captured words not captured by epoch310 
+
+478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́
+ASR @epoch389: ilé-ilọ̀ yìí àti dígbà àwọn aláfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ti ẹ̀yìn, yóò jẹ́ kí àwọn ìtànwọ̀yì ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
+
+Unnormalised
+Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́.
+ilé-ilọ̀ yìí àti dígbà àwọn aláfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ti ẹ̀yìn, yóò jẹ́ kí àwọn ìtànwọ̀yì ṣẹ́ yá sọ́pọ̀pọ̀ yìí.̀
+Normalised
+['liloye ati dida awon alafo imo ati awon idena gidi si lilo itn yoo je ki awon eto wonyi se iyato pipe']
+['ileilo yii ati digba awon alafo imo ati awon ede naa gidi sile naa ti eyin yoo je ki awon itanwoyi se ya sopopo yii']
+BLEU score: 25.381494737245898
+WER: 0.6363636363636364
+CER: 0.3465346534653465
+
+ROUGE-L Results:
+LCS Length: 12
+LCS Sequence: ati awon alafo imo ati awon gidi yoo je ki awon se
+Recall: 0.5454545454545454
+Precision: 0.48
+F-score: 0.5106382978723404
+--------------------------------------------------------------------------------------------------------------
+same as epoch 389
+478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́
+ASR @epoch401: ilé-ilọ̀ yìí àti dígbà àwọn aláfọ̀ ìmọ̀ àti àwọn èdè náà gidi sílẹ̀ náà ti ẹ̀yìn, yóò jẹ́ kí àwọn ìtànwọ̀yì ṣẹ́ yá sọ́pọ̀pọ̀ yìí.
+
+=============================================================================================================================
+472: Ní àfikún, ìwádìí ìfarahàn àwọn ìròyìn, pẹ̀lú ìwọ̀n àpẹẹrẹ ti n  je ẹgbẹ̀rin ati mẹ̀talélàádọ́rùn-ún, kéré ju àwọn ìwádìí mìíràn nínú ìwádìí yìí lọ.
+ASR @epoch370: ní a fí kó, mi wá àdì ìfọ̀ràn àwọn ìròyìn gbàgbọ́ àwọn apẹ̀rẹ̀ tí jẹ́ ẹgbẹ̀rẹ̀ àti bẹ̀tàlélàdọ̀kẹ̀rẹ̀ jù àwọn ìwádìí mìíràn ní ìwádìí yìí.
+
+Unnormalised
+Ní àfikún, ìwádìí ìfarahàn àwọn ìròyìn, pẹ̀lú ìwọ̀n àpẹẹrẹ ti n  je ẹgbẹ̀rin ati mẹ̀talélàádọ́rùn-ún, kéré ju àwọn ìwádìí mìíràn nínú ìwádìí yìí lọ.
+ní a fí kó, mi wá àdì ìfọ̀ràn àwọn ìròyìn gbàgbọ́ àwọn apẹ̀rẹ̀ tí jẹ́ ẹgbẹ̀rẹ̀ àti bẹ̀tàlélàdọ̀kẹ̀rẹ̀ jù àwọn ìwádìí mìíràn ní ìwádìí yìí.
+Normalised
+['ni afikun iwadii ifarahan awon iroyin pelu iwon apeere ti n  je egberin ati metalelaadorunun kere ju awon iwadii miiran ninu iwadii yii lo']
+['ni a fi ko mi wa adi iforan awon iroyin gbagbo awon apere ti je egbere ati betaleladokere ju awon iwadii miiran ni iwadii yii']
+BLEU score: 14.100024578768863
+WER: 0.6666666666666666
+CER: 0.2753623188405797
+
+ROUGE-L Results:
+LCS Length: 12
+LCS Sequence: ni awon iroyin ti je ati ju awon iwadii miiran iwadii yii
+Recall: 0.5
+Precision: 0.48
+F-score: 0.4897959183673469
+=============================================================================================================================
+449: Àìsí ìbáṣepọ̀ yìí ń bá a lọ lẹ́yìn tí a bá ṣe àtúnṣe fún àwọn olùdásílẹ̀ tí ó ṣeé ṣe nínú àwọn àwòṣe ìyípadà oníṣẹ́-ọnà oní-ọ̀pọ̀.
+ASR @epoch427: laífì ìbáṣepọ̀ yìí bá àlọ́ ní ẹyìn tí a bá ṣe àdìṣe fún ọ, àwọn olùdásílẹ̀ tí ó ń ṣe iṣẹ́ nínú àwọn àwùsẹ̀ yìí pátọ́ oríṣọ́ àlọ́ kò ní ọ̀pọ̀.
+
+
+Unnormalised
+Àìsí ìbáṣepọ̀ yìí ń bá a lọ lẹ́yìn tí a bá ṣe àtúnṣe fún àwọn olùdásílẹ̀ tí ó ṣeé ṣe nínú àwọn àwòṣe ìyípadà oníṣẹ́-ọnà oní-ọ̀pọ̀.
+laífì ìbáṣepọ̀ yìí bá àlọ́ ní ẹyìn tí a bá ṣe àdìṣe fún ọ, àwọn olùdásílẹ̀ tí ó ń ṣe iṣẹ́ nínú àwọn àwùsẹ̀ yìí pátọ́ oríṣọ́ àlọ́ kò ní ọ̀pọ̀.
+Normalised
+['aisi ibasepo yii n ba a lo leyin ti a ba se atunse fun awon oludasile ti o see se ninu awon awose iyipada oniseona oniopo']
+['laifi ibasepo yii ba alo ni eyin ti a ba se adise fun o awon oludasile ti o n se ise ninu awon awuse yii pato oriso alo ko ni opo']
+BLEU score: 19.189570068047395
+WER: 0.6538461538461539
+CER: 0.256198347107438
+
+ROUGE-L Results:
+LCS Length: 15
+LCS Sequence: ibasepo yii ba ti a ba se fun awon oludasile ti o se ninu awon
+Recall: 0.5769230769230769
+Precision: 0.4838709677419355
+F-score: 0.5263157894736842
+
+same as epoch 427. No improvement in both BLUE and ROUGE-L scores
+449: Àìsí ìbáṣepọ̀ yìí ń bá a lọ lẹ́yìn tí a bá ṣe àtúnṣe fún àwọn olùdásílẹ̀ tí ó ṣeé ṣe nínú àwọn àwòṣe ìyípadà oníṣẹ́-ọnà oní-ọ̀pọ̀.
+ASR @epoch459: naífì ìbáṣepọ̀ yìí bá àlọ́ ní ẹyìn tí a bá ṣe àdìṣe fún ọ, àwọn olùdásílẹ̀ tí ó ń ṣe iṣẹ́ nínú àwọn àwùsẹ̀ yìí pátọ́ oríṣọ́ àlọ́ kò ní ọ̀pọ̀.
+
+=============================================================================================================================
+475: Ìwádìí ọjọ́ iwájú yẹ kí ó lo àwọn àwòrán gígùn láti ṣàfihàn àwọn ìyípadà ìgbà díẹ̀ nínú ìwà ìdènà ibà ní ọ̀nà tí ó dára jù. 
+ASR @epoch443: ìwájú ọjọ́ iwájú ìrìyà kí ó lọ́wọ́ àwọn ológegò láti ṣàfihà àwọn ìyẹ̀pàdá ìgbà gíẹ̀ mi lọ, wọn ìdínú ibà ni ọ̀lọ́ tí ó dára jù
+
+Unnormalised
+Ìwádìí ọjọ́ iwájú yẹ kí ó lo àwọn àwòrán gígùn láti ṣàfihàn àwọn ìyípadà ìgbà díẹ̀ nínú ìwà ìdènà ibà ní ọ̀nà tí ó dára jù.
+ìwájú ọjọ́ iwájú ìrìyà kí ó lọ́wọ́ àwọn ológegò láti ṣàfihà àwọn ìyẹ̀pàdá ìgbà gíẹ̀ mi lọ, wọn ìdínú ibà ni ọ̀lọ́ tí ó dára jù
+Normalised
+['iwadii ojo iwaju ye ki o lo awon aworan gigun lati safihan awon iyipada igba die ninu iwa idena iba ni ona ti o dara ju']
+['iwaju ojo iwaju iriya ki o lowo awon ologego lati safiha awon iyepada igba gie mi lo won idinu iba ni olo ti o dara ju']
+BLEU score: 14.965975078050626
+WER: 0.5
+CER: 0.2689075630252101
+
+ROUGE-L Results:
+LCS Length: 14
+LCS Sequence: ojo iwaju ki o awon lati awon igba iba ni ti o dara ju
+Recall: 0.5384615384615384
+Precision: 0.5384615384615384
+F-score: 0.5384615384615384
+
+=============================================================================================================================
 
 
 
